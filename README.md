@@ -1,5 +1,4 @@
-<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA5YzRsZDdmaWNyNmMwMW00cW15bzd0bWZ0YzJ0NTF6![giphy](https://github.com/Adil0710/Adil0710/assets/91872021/ca07d39d-9ead-40a5-bcdc-91f375a57e54)
-bnBkN21hZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fsgH6Y5LeecVbKUfyq/giphy.gif">
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA5YzRsZDdmaWNyNmMwMW00cW15bzd0bWZ0YzJ0NTF6bnBkN21hZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fsgH6Y5LeecVbKUfyq/giphy.gif">
 
 <!--
 **Adil0710/Adil0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
