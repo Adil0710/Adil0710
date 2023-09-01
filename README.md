@@ -1,5 +1,6 @@
 
-![GIF-230901_172631](https://github.com/Adil0710/Adil0710/assets/91872021/dccea752-e959-4e94-aff3-c58d039398c1)
+![GIF-230901_173812](https://github.com/Adil0710/Adil0710/assets/91872021/b0f13d21-6e7a-4256-92b4-a3f7fb23ce90)
+
 
 <!--
 **Adil0710/Adil0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
