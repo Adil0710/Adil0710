@@ -1,12 +1,6 @@
 
 ![1693567759857](https://github.com/Adil0710/Adil0710/assets/91872021/48bb8981-c8f4-482b-b41d-3653cc960255)
-
-<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNwY3dpbjNvNmkzdnZlNzhwc2k3MW8xZTUxMWRyZXM3bmg4MGp4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQ7G3UVgNjrLSMIdIF/giphy.gif">
-
-
-
-
-
+![1693568958624](https://github.com/Adil0710/Adil0710/assets/91872021/97f32319-baa4-4aef-836a-326f0908b190)
 
 
 <!--
