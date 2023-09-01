@@ -1,9 +1,8 @@
-<img src ="https://media.giphy.com/media/giphy.gif">
+<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHA5YzRsZDdmaWNyNmMwMW00cW15bzd0bWZ0YzJ0NTF6bnBkN21hZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fsgH6Y5LeecVbKUfyq/giphy.gif">
 
 
 https://github.com/Adil0710/Adil0710/assets/91872021/721296e0-3122-4686-b70b-5c06cf12900e
 
-![Untitled video - Made with Clipchamp](https://github.com/Adil0710/Adil0710/assets/91872021/17991545-a3d3-4331-94e8-9f298507710f)
 
 <!--
 **Adil0710/Adil0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
