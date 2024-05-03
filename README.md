@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at **[Portfolio.](https://Adil0710.github.io)**
 
-- 💬 Ask me about **React, Php, Javascript.** 🇮🇳:
+- 💬 Ask me about **React, Php, Javascript.**
 
 - 📫 How to reach me **padil2246@gmail.com**
 
