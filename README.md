@@ -3,11 +3,7 @@
 
 ![GIF-230901_173812](https://github.com/Adil0710/Adil0710/assets/91872021/b0f13d21-6e7a-4256-92b4-a3f7fb23ce90)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adil0710&label=Profile%20views&color=0e75b6&style=flat" alt="adil0710" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adil0710" alt="adil0710" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/adilpat21587273" target="blank"><img src="https://img.shields.io/twitter/follow/adilpat21587273?logo=twitter&style=for-the-badge" alt="adilpat21587273" /></a> </p>
 
 <img align="right" alt="coding" width=450  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
@@ -26,6 +22,14 @@
 - 📄 Know about my experiences here's my **[Resume.](https://drive.google.com/file/d/1295UApbwly9bVbctVUOCqy_s1vOU1jwQ/view?usp=sharing)**
 
 - ⚡ Fun fact **Code never lies ! :electron:**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adil0710&label=Profile%20views&color=0e75b6&style=flat" alt="adil0710" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adil0710" alt="adil0710" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/adilpat21587273" target="blank"><img src="https://img.shields.io/twitter/follow/adilpat21587273?logo=twitter&style=for-the-badge" alt="adilpat21587273" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
