@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adil Patel</h1>
-<h3 align="center">A passionate Full-Stack Developer from India | Fixing bugs, finding features!</h3>
+
 
 ![GIF-230901_173812](https://github.com/Adil0710/Adil0710/assets/91872021/b0f13d21-6e7a-4256-92b4-a3f7fb23ce90)
 
-
+<h1 align="center">Hi 👋, I'm Adil Patel</h1>
+<h3 align="center">A passionate Full-Stack Developer from India | Fixing bugs, finding features!</h3>
 
 <img align="right" alt="coding" width=450  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
