@@ -4,7 +4,7 @@
 <!--![GIF-230901_173812](https://github.com/Adil0710/Adil0710/assets/91872021/b0f13d21-6e7a-4256-92b4-a3f7fb23ce90)-->
 
 
-<img alt="coding" width=90%  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+<img align="center" alt="coding" width=90%  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adil0710&label=Profile%20views&color=0e75b6&style=flat" alt="adil0710" /> </p>
