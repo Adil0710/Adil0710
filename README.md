@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil Patel</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India </h3>
 
 ![GIF-230901_173812](https://github.com/Adil0710/Adil0710/assets/91872021/b0f13d21-6e7a-4256-92b4-a3f7fb23ce90)
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1295UApbwly9bVbctVUOCqy_s1vOU1jwQ/view?usp=sharing](https://drive.google.com/file/d/1295UApbwly9bVbctVUOCqy_s1vOU1jwQ/view?usp=sharing)
 
-- ⚡ Fun fact **Code never lies !**
+- ⚡ Fun fact **Code never lies ! :electron:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
