@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adil Patel</h1>
 <h3 align="center">A passionate Full-Stack Developer from India </h3>
 
+![GIF-230901_173812](https://github.com/Adil0710/Adil0710/assets/91872021/b0f13d21-6e7a-4256-92b4-a3f7fb23ce90)
 
 
-<img align="right" alt="coding" width=400 src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adil0710&label=Profile%20views&color=0e75b6&style=flat" alt="adil0710" /> </p>
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/adilpat21587273" target="blank"><img src="https://img.shields.io/twitter/follow/adilpat21587273?logo=twitter&style=for-the-badge" alt="adilpat21587273" /></a> </p>
 
-![GIF-230901_173812](https://github.com/Adil0710/Adil0710/assets/91872021/b0f13d21-6e7a-4256-92b4-a3f7fb23ce90)
+<img align="right" alt="coding" width=400 src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 - 🔭 I’m currently working on [pdf-GPT](https://github.com/Adil0710/Pdf-GPT)
 
