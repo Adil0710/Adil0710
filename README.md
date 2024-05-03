@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Adil Patel</h1>
 <h3 align="center">A passionate Full-Stack Developer from India | Fixing bugs, finding features!</h3>
 
+
+
 <img align="right" alt="coding" width=450  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 - 🔭 I’m currently working on [pdf-GPT.](https://github.com/Adil0710/Pdf-GPT)
