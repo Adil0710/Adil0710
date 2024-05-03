@@ -3,6 +3,8 @@
 
 ![GIF-230901_173812](https://github.com/Adil0710/Adil0710/assets/91872021/b0f13d21-6e7a-4256-92b4-a3f7fb23ce90)
 
+<img align="right" alt="coding" width=400 src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adil0710&label=Profile%20views&color=0e75b6&style=flat" alt="adil0710" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adil0710" alt="adil0710" /></a> </p>
