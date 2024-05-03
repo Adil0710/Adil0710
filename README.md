@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Any Open Source Project.**
 
-- 👨‍💻 All of my projects are available at **[Portfolio]**(https://Adil0710.github.io)
+- 👨‍💻 All of my projects are available at **[Portfolio](https://Adil0710.github.io)**
 
 - 💬 Ask me about **React, Php, Javascript.**
 
