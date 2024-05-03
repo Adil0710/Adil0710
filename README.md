@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil Patel</h1>
-<h3 align="center">A passionate Full-Stack Developer from India 🇮🇳:</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 ![GIF-230901_173812](https://github.com/Adil0710/Adil0710/assets/91872021/b0f13d21-6e7a-4256-92b4-a3f7fb23ce90)
 
@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at **[Portfolio.](https://Adil0710.github.io)**
 
-- 💬 Ask me about **React, Php, Javascript.**
+- 💬 Ask me about **React, Php, Javascript.** 🇮🇳:
 
 - 📫 How to reach me **padil2246@gmail.com**
 
