@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/adilpat21587273" target="blank"><img src="https://img.shields.io/twitter/follow/adilpat21587273?logo=twitter&style=for-the-badge" alt="adilpat21587273" /></a> </p>
 
-<img align="right" alt="coding" width=400 src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif"/>
+<img align="right" alt="coding" width=400 src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 - 🔭 I’m currently working on [pdf-GPT](https://github.com/Adil0710/Pdf-GPT)
 
