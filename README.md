@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/adilpat21587273" target="blank"><img src="https://img.shields.io/twitter/follow/adilpat21587273?logo=twitter&style=for-the-badge" alt="adilpat21587273" /></a> </p>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="coding" width=400 src="[https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZmNXk0cTdpcDc3OHY3b3Yxdmdkd3JmcHNia3JzNHBtczN2eGoxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)"/>
 
 - 🔭 I’m currently working on [pdf-GPT](https://github.com/Adil0710/Pdf-GPT)
 
