@@ -32,6 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adilpat21587273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adilpat21587273" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adil-patel-737692252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adil-patel-737692252" height="30" width="40" /></a>
 <a href="https://kaggle.com/adilpatel0710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adilpatel0710" height="30" width="40" /></a>
 <a href="https://instagram.com/the_lonewold_02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_lonewold_02_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/padil2246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="padil2246" height="30" width="40" /></a>
