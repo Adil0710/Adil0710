@@ -13,19 +13,19 @@
 
 <img align="right" alt="coding" width=500  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
-- 🔭 I’m currently working on [pdf-GPT](https://github.com/Adil0710/Pdf-GPT)
+- 🔭 I’m currently working on [pdf-GPT.](https://github.com/Adil0710/Pdf-GPT)
 
 - 🌱 I’m currently learning **Java and Springboot.**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project.**
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://Adil0710.github.io)**
+- 👨‍💻 All of my projects are available at **[Portfolio.](https://Adil0710.github.io)**
 
 - 💬 Ask me about **React, Php, Javascript.**
 
 - 📫 How to reach me **padil2246@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1295UApbwly9bVbctVUOCqy_s1vOU1jwQ/view?usp=sharing)
+- 📄 Know about my experiences here's my **[Resume.](https://drive.google.com/file/d/1295UApbwly9bVbctVUOCqy_s1vOU1jwQ/view?usp=sharing)**
 
 - ⚡ Fun fact **Code never lies ! :electron:**
 
