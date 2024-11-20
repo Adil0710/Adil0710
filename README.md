@@ -57,11 +57,10 @@
 
 
 
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil0710&layout=donut-vertical)](https://github.com/Adil0710/github-readme-stats)     
      
 ![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adil0710&show_icons=true)                          
-adil
+Adil Patel 
 **Adil0710/Adil0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
