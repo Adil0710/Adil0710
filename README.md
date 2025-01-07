@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width=450  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
-- 🔭 I’m currently working on [pdf-GPT.](https://github.com/Adil0710/Pdf-GPT)
+- 🔭 I’m currently working on [ProfileCraft.](https://github.com/Adil0710/Profilecraft)
 
 - 🌱 I’m currently learning **Java and Springboot.**
 
