@@ -11,17 +11,17 @@
 
 - 🔭 I’m currently working on [ProfileCraft.](https://github.com/Adil0710/Profilecraft)
 
-- 🌱 I’m currently learning **Java and Springboot.**
+- 🌱 I’m currently learning **Typescript and Next.js.**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project.**
 
-- 👨‍💻 All of my projects are available at **[Portfolio.](https://Adil0710.github.io)**
+- 👨‍💻 All of my projects are available at **[Portfolio.](https://devadil.vercel.app)**
 
-- 💬 Ask me about **React, Php, Javascript.**
+- 💬 Ask me about **React, Node.js, Javascript.**
 
 - 📫 How to reach me **padil2246@gmail.com**
 
-- 📄 Know about my experiences here's my **[Resume.](https://drive.google.com/file/d/1295UApbwly9bVbctVUOCqy_s1vOU1jwQ/view?usp=sharing)**
+- 📄 Know about my experiences here's my **[Resume.](https://drive.google.com/file/d/1o3PBo-CGQNJwsBlDclLOsaghvTK1-ONo/view)**
 
 - ⚡ Fun fact **Code never lies ! :electron:**
 
