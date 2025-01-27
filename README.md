@@ -50,7 +50,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adil0710&show_icons=true&locale=en" alt="adil0710" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adil0710&" alt="adil0710" /></p>
+
 
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Adil0710)](https://git.io/streak-stats)
