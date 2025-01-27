@@ -55,7 +55,7 @@
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Adil0710)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Adil0710)](https://git.io/streak-stats)
+
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil0710&layout=donut-vertical)](https://github.com/Adil0710/github-readme-stats)     
