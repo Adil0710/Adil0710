@@ -53,6 +53,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adil0710&" alt="adil0710" /></p>
 
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Adil0710)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Adil0710)](https://git.io/streak-stats)
 
