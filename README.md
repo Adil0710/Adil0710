@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width=450  src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
-- 🔭 I’m currently working on [ProfileCraft.](https://github.com/Adil0710/Profilecraft)
+- 🔭 I’m currently working on [Expenzaar.](https://github.com/Adil0710/Expenzaar)
 
 - 🌱 I’m currently learning **Typescript and Next.js.**
 
